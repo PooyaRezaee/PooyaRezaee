@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I'm Pooya Rezaei ,a Backend Developer
+### I'm Pouya Rezaei ,a Backend Developer
 ### **A combination that I love:**  
 🐍 Python, 🖥️ VsCode, 🐳 Docker, 🗃️ Git, ☕ Coffee Latte, 💻 Surface, 🖥️ Additional Monitor
 
